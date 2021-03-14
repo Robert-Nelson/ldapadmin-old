@@ -24,7 +24,7 @@
 
 }
 
-unit md4;
+unit md4Samba;
 
 interface
 
