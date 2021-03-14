@@ -58,7 +58,7 @@ uses
   Core in 'Core.pas',
   Cert in 'Cert.pas',
   Dsml in 'Dsml.pas',
-  Gss in 'Gss.pas';
+  Gss in '\\SRV-K-SVC01\tihomir.karlovic\Eigene Dateien\Projects\LdapAdminOS\Gss.pas';
 
 {$R *.RES}
 
